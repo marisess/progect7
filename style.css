@@ -29,6 +29,13 @@ ul{
     margin: 0;
     display: flex;
 }
+.div_cros{
+    height: 1100px;
+    width: 1005px;
+    left: -15px;
+    position: absolute;
+    top: -20px;
+}
 .header_div{
     color: black;
 }
